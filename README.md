@@ -17,3 +17,10 @@ Tracker
 -------
 
 https://github.com/cliffparnitzky/ExtendedEmailRegex/issues
+
+
+Compatibility
+-------------
+
+- min. version: Contao 2.6.2
+- max. version: Contao 2.11.6
