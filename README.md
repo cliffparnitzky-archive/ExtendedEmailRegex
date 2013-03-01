@@ -1,5 +1,5 @@
-Contao ExtendedEmailRegex Extension
-===================================
+Contao Extension: ExtendedEmailRegex
+====================================
 
 Provides extended regular expressions for e-mails.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.6.2
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency
