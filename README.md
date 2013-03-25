@@ -23,10 +23,17 @@ Compatibility
 -------------
 
 - min. version: Contao 2.6.2
-- max. version: Contao 2.11.x
+- max. version: Contao 3.0.x
 
 
 Dependency
 ----------
 
 - There are no dependencies to other extensions, that have to be installed.
+
+
+Usage
+-----
+
+- `form` / `dma_element_generator` ... regex will automatically be added to select list in field config
+- `dca` ... using `emailList` only accepts a comma-separated list of email addresses
